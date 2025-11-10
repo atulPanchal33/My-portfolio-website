@@ -79,7 +79,7 @@ export default function Portfolio() {
   };
 
   const downloadResume = () => {
-  const pdfUrl = '/Full-StackDevAtul.pdf'; // Make sure the PDF is in your public folder
+  const pdfUrl = '/Atul-Full-stack.pdf'; // Make sure the PDF is in your public folder
   const link = document.createElement('a');
   link.href = pdfUrl;
   link.download = 'Atul_Panchal_FullStack_Developer_Resume.pdf';
