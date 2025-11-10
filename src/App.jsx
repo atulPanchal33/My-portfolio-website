@@ -92,7 +92,7 @@ export default function Portfolio() {
   const projects = [
     {
       title: "Bike Web Application",
-      description: "Full-stack e-commerce solution with React, Node.js, and MongoDB. Features include user authentication, payment integration, and real-time inventory management.",
+      description: "Built a full‑featured motorcycle e‑commerce platform with sections for new bikes, scooters, accessories, service booking, blogs, and reviews. Designed to simulate a real online marketplace experience.",
       tech: ["Html", "Css"],
       image: "https://static.toiimg.com/photo/80452572.cms",
       github: "https://github.com/atul-panchal/ecommerce",
@@ -110,7 +110,7 @@ export default function Portfolio() {
     },
     {
       title: "Holiday Web Application",
-      description: "Healthcare website with appointment booking system and service showcase. Focused on user experience and accessibility.",
+      description: "Holiday Bazar is a modern travel-booking portal crafted for both domestic and international adventure seekers. Featuring immersive hero-slides and intuitive navigation, the platform allows users to explore regions by country, holiday-type and tour-package..",
       tech: ["React", "Tailwind CSS"],
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS84IVZ5wmr1AmnYzqley-CA52ikLjYLvuLg&s",
       github: "https://github.com/atul-panchal/healthcare",
@@ -207,7 +207,7 @@ export default function Portfolio() {
       company: "Local Business",
       content: "Atul delivered an outstanding website for my business. His attention to detail and communication throughout the project was excellent. Highly recommended!",
       rating: 5,
-      // image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop"
+      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop"
     },
     {
       name: "Rahul Kumar",
@@ -215,7 +215,7 @@ export default function Portfolio() {
       company: "Tech Startup",
       content: "Working with Atul was a great experience. He understood our requirements perfectly and delivered a scalable solution. Will definitely work together again!",
       rating: 5,
-      // image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop"
+      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop"
     },
     {
       name: "Anjali Verma",
@@ -223,7 +223,7 @@ export default function Portfolio() {
       company: "Digital Agency",
       content: "Atul's technical skills and professionalism exceeded our expectations. The website he built is fast, responsive, and exactly what we needed.",
       rating: 5,
-      // image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop"
+      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop"
     }
   ];
 
